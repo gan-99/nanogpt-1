@@ -14,9 +14,9 @@ n_embd = 384
 n_head = 6
 n_layer = 6
 dropout = 0.2
-# --------------
+# ---------------
 
-#text number 8.0
+#text number 9.0
 
 
 
